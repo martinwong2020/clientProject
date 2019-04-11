@@ -1,0 +1,1 @@
+var searched = $(".searchedTerm").val();
