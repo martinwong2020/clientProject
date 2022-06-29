@@ -15,7 +15,7 @@ var customUrl="https://www.omdbapi.com/?t=" + search + "&apikey=5ec41f9a";
             $("#AuthorAndWriter").append("<p>Writer: "+response.Writer+"</p>");
             }
         })  
-    }) ;   
+    }) ;
 //  $("home").click(function(){
      
 //  });
